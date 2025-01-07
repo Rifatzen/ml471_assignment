@@ -8,6 +8,10 @@ Scene graphs offer a structured representation where objects are nodes, and thei
 
 The implications of this research extend far beyond academic exploration, offering practical solutions in industries ranging from graphic design to virtual reality. By enhancing controllability and fidelity in image generation, DisCo sets a new standard for applications requiring intricate visual compositions.
 
+
+![ss1](https://github.com/user-attachments/assets/50270d54-577f-4461-a84a-6c355a089f3a)
+
+
 ---
 
 ## Main Contributions
@@ -18,6 +22,9 @@ DisCo introduces the SL-VAE, a novel module designed to disentangle scene graphs
 - **Interactive Semantics:** The relationships and interactions among objects.
 
 Traditional SG2I methods typically rely on a one-to-one mapping between scene graphs and layouts, limiting their diversity. SL-VAE breaks this constraint by enabling a one-to-many mapping through Gaussian distribution sampling. This approach allows for the generation of multiple plausible layouts and semantics for a single input graph, enhancing both flexibility and realism.
+
+
+![ss2](https://github.com/user-attachments/assets/61b6e7c4-0d92-4ebb-b422-02d024faf41e)
 
 
 #### Textual Scene Graph Construction in SL-VAE

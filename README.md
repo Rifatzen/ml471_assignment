@@ -8,4 +8,4 @@ This is a review blog for the paper ["Scene Graph Disentanglement and Compositio
 
 **Blog Writers**: Md. Rifat Rahman (1905094) , Rakib Kibria (1905098) , Arnob Saha Ankon (1905108)
 
-[![Md. Rifat Rahman]https://img.shields.io/github/followers/Rifatzen?label=Md.%20Rifat%20Rahman](https://github.com/Rifatzen)  [![Rakib Kibria](https://img.shields.io/github/followers/tahmid-404-20?label=Nafis%20Tahmid%20&style=social)](https://github.com/rakibkibriaa)  [![Arnob Saha Ankon](https://img.shields.io/github/followers/Shattik?label=Shattik%20Islam%20Rhythm%20&style=social)](https://github.com/Arnob000)
+[![Md. Rifat Rahman](https://img.shields.io/github/followers/Rifatzen?label=Md.%20Rifat%20Rahman)](https://github.com/Rifatzen)  [![Rakib Kibria](https://img.shields.io/github/followers/rakibkibriaa?label=Rakib%20Kibria)](https://github.com/rakibkibriaa)  [![Arnob Saha Ankon](https://img.shields.io/github/followers/Arnob000?label=Arnob%20Saha%20Ankon)](https://github.com/Arnob000)

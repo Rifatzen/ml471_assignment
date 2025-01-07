@@ -43,8 +43,8 @@ This process ensures alignment between textual and visual data, allowing SL-VAE 
 
 
 #### i. Input: Nodes and Edges from Scene Graph
-- **Nodes (objects)** are represented by embeddings \( \mathbf{O}_i \), which encode semantic and spatial information.
-- **Edges (relationships)** are represented by embeddings \( \mathbf{E}_{ij} \), capturing relationships between objects.
+- **Nodes (objects)** are represented by embeddings $\( \mathbf{O}_i \)$, which encode semantic and spatial information.
+- **Edges (relationships)** are represented by embeddings $\( \mathbf{E}_{ij} \)$, capturing relationships between objects.
 - Initial embeddings are constructed using **Textual Scene Graph Construction** with CLIP text embeddings, bounding box information, and learnable embeddings.
 
 #### ii. Graph Union Encoding with a Triplet-GCN

@@ -1,5 +1,8 @@
 # DisCo: A New Frontier in Complex Scene Image Generation
 
+**Blog Writers**: Md. Rifat Rahman (1905094) ,  Rakib Kibria (1905098) , Arnob Saha Ankon (1905108)  
+**Date**: January 07, 2025
+
 ## Overview
 
 Generating realistic images from textual descriptions or layout conditions has made remarkable progress in recent years. Yet, when tasked with rendering intricate scenes involving numerous objects and their relationships, these approaches often falter. Challenges such as unclear spatial arrangements or non-spatial interactions limit the potential of traditional methods. To tackle these limitations, the paper **"Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation"** introduces **DisCo** – a framework that leverages scene graphs to redefine the boundaries of image generation.

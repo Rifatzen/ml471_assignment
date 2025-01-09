@@ -5,7 +5,7 @@
 
 ---
 
-# Review of Blog on 'When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search'
+# <a href="https://github.com/ferb97/CSE471-Machine-Learning-Assignment/blob/main/1905097_1905101_CSE471_DRL_Guided_Search.md">Review of Blog on 'When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search </a>
 
 This review evaluates the blog titled _"When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search"_ against the paper _"When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search"_ by Xuan Chen et al. Below is a detailed analysis of the blog’s strengths, alignment with the paper, and areas for improvement.
 

@@ -1,6 +1,9 @@
-# Review of the Blog on Convolutional Differentiable Logic Gate Networks (CDLGNs)
+# <a href="https://github.com/MdRaihanSobhan/Blog---Convolutional-Differentiable-Logic-Gate-Network/blob/main/blog.md">Review of the Blog on Convolutional Differentiable Logic Gate Networks (CDLGNs) </a>
 
-The blog on *Convolutional Differentiable Logic Gate Networks (CDLGNs)* offers an engaging and well-structured presentation of the key ideas and advancements proposed in the corresponding research paper. It succeeds in making a highly technical subject accessible while retaining the richness of the research. Below is a comprehensive review that consolidates its strengths and weaknesses, along with an evaluation of included and omitted key points from the paper.
+**Review Writers**: Md. Rifat Rahman (1905094) ,  Rakib Kibria (1905098) , Arnob Saha Ankon (1905108)  
+**Date**: January 09, 2025
+
+The blog on *Convolutional Differentiable Logic Gate Networks (CDLGNs)*(https://arxiv.org/pdf/2411.04732) offers an engaging and well-structured presentation of the key ideas and advancements proposed in the corresponding research paper. It succeeds in making a highly technical subject accessible while retaining the richness of the research. Below is a comprehensive review that consolidates its strengths and weaknesses, along with an evaluation of included and omitted key points from the paper.
 
 ---
 

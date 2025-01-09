@@ -1,5 +1,6 @@
 # <a href="https://github.com/MdRaihanSobhan/Blog---Convolutional-Differentiable-Logic-Gate-Network/blob/main/blog.md">Review of the Blog on Convolutional Differentiable Logic Gate Networks (CDLGNs) </a>
 
+**Group Id**: 23
 **Review Writers**: Md. Rifat Rahman (1905094) , Rakib Kibria (1905098) , Arnob Saha Ankon (1905108)  
 **Date**: January 09, 2025
 

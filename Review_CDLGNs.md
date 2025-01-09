@@ -7,7 +7,7 @@
 
 ---
 
-The blog on [_Convolutional Differentiable Logic Gate Networks (CDLGNs)_](https://arxiv.org/pdf/2411.04732) offers an concise and well-structured overview of the key ideas and advancements proposed in the corresponding research paper. It succeeds in making a highly technical subject accessible while retaining the richness of the research. Below is a comprehensive review that consolidates the blogs strengths and weaknesses, along with an evaluation of included key points from the paper.
+The blog on [_Convolutional Differentiable Logic Gate Networks (CDLGNs)_](https://arxiv.org/pdf/2411.04732) offers an concise and well-structured overview of the key ideas and advancements proposed in the corresponding research paper. It succeeds in making a highly technical subject simple while retaining the richness of the research. Below is a comprehensive review that consolidates the blog's strengths and weaknesses, along with an evaluation of included key points from the paper.
 
 
 ## Strengths
@@ -18,7 +18,7 @@ The blog on [_Convolutional Differentiable Logic Gate Networks (CDLGNs)_](https:
 - **Visual Aids**: By including diagrams and charts, such as those comparing CNNs and CDLGNs, the blog makes the concepts easier to understand. 📊🖼️
 - **Key Results Highlighted**: Performance benchmarks, such as reduced gate counts, increased speed, and high accuracy on CIFAR-10 and MNIST datasets, are clearly presented. 🚀
 
----
+
 
 ## Weaknesses
 
@@ -26,7 +26,7 @@ The blog on [_Convolutional Differentiable Logic Gate Networks (CDLGNs)_](https:
 - **Surface-Level Discussion of Results**: While highlighting performance improvements, it does not delve deeply into their implications, particularly in real-world applications. 🌍
 - **Future Directions**: Though touched upon, this section could have been expanded with more concrete examples connected to current industry trends. 🔮
 
----
+
 
 ## Key Points from the Paper Included in the Blog
 
@@ -36,11 +36,11 @@ The blog on [_Convolutional Differentiable Logic Gate Networks (CDLGNs)_](https:
 - **Logical OR Pooling**: Covers the benefits of logical OR pooling in recognizing spatial patterns and reducing computational overhead. 🗺️
 - **Comparisons with CNNs**: Effectively contrasts CDLGNs with traditional CNNs, showcasing advantages in computational efficiency and hardware adaptability. 🤖
 
----
+
 
 ## Key Points from the Paper Omitted in the Blog
 
-- **Detailed Architecture Design**: The paper’s description of the _LogicTreeNet_ architecture, including its layer-by-layer composition, is only briefly mentioned. 🏗️
+- **Detailed Architecture Design**: The paper’s description of the **_LogicTreeNet_** architecture, including its layer-by-layer composition, is only briefly mentioned. 🏗️
 - **Training Challenges and Specifics**: Important factors such as the softmax temperature dependence on output neurons are not covered. 🏋️‍♂️
 - **Discretization Process**: The blog mentions hardware deployment but skips the detailed process of discretization and its minimal impact on accuracy. 🔧
 - **Energy Efficiency**: While energy savings are nicely represented using a graph, specific reductions in transistor count and power consumption are omitted. 🌱
